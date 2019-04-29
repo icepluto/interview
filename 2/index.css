@@ -1,0 +1,32 @@
+html.body{
+    margin: 0;
+    width: 100%;
+
+}
+h3{
+    margin: 20px 0;
+    text-align: center;
+}
+.left,.right{
+    width: 200px;
+    height: 500px;
+    background-color: blueviolet;
+    position:absolute;
+    top: 120px;
+}
+.left{
+    left: 0px;
+}
+.right{
+    right: 0px;
+}
+.middle{
+    margin: 75px 220px;
+    background-color: aqua;
+    height: 200px;
+
+}
+
+
+
+
