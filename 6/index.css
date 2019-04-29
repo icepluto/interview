@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin: 100px;
+    color: gold;
+}
+body{
+    background-color: aqua;
+}
+div{
+    margin: 300px;
+}
