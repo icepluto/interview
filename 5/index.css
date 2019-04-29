@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#div1,#div2{
+    float: left;
+    width: 400px;
+    height: 500px;
+    border: 1px solid fuchsia;
+}
+#drag1{
+    float: left;
+    display: block;
+    margin: 20px;
+}
