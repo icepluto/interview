@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.container
+{
+width:30em;
+border:1em solid;
+}
+div.box
+{
+box-sizing:border-box;
+-moz-box-sizing:border-box; /* Firefox */
+-webkit-box-sizing:border-box; /* Safari */
+width:50%;
+border:1em solid red;
+float:left;
+}
