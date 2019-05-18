@@ -19,7 +19,21 @@ function sum(arr1){
     return result;
 }
 document.write(sum(arr1));
+//
 
+function sum2(array){
+    
+    let all = 0;
+    for (let i = 0; i < array.length; i++) {
+        if (typeof array[i] == "number") {
+            
+            all += array[i];
+        }
+    }
+    return all;
+}
+const array = [1,2,2,3,1,4,5,6,4,7,71,8];
+document.write(sum2(array))
 
 
 
